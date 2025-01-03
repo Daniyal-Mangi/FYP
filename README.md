@@ -85,8 +85,8 @@ This project is licensed under the **MIT License**.
 
 ## 📬 Contact
 For any queries or issues, feel free to reach out:
-- **GitHub:** [@talha0997](https://github.com/talha0997)
-- **Email:** your-email@example.com (Replace with your email)
+- **GitHub:** [@Daniyal-Mangi](https://github.com/Daniyal-Mangi)
+- **Email:** daniyalmangi41@gmail.com
 
 ---
 ### 🌟 If you like this project, please ⭐ the repo!
